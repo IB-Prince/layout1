@@ -1,0 +1,60 @@
+body{
+	
+}
+.container{
+	width:1000px;
+	background: yellow;
+	height:1000px;
+	margin: 0 auto;
+
+}
+.main-content{
+	width:100%;
+	height:90%;
+	background: grey;
+}
+.list{
+	width:20%;
+	height:100%;
+	background: red;
+	float:left;
+}
+.search{
+	width:80%;
+	height:20%;
+	background: purple;
+	float:left;
+	float:top;
+
+}
+.introduction{
+	width:40%;
+	height:40%;
+	background: green;
+	float:top;
+	float:left;
+
+}
+.success-stories{
+	width:40%;
+	height:40%;
+	background: yellow;
+	float:top;
+	float:left;
+
+
+}
+.about-us{
+	width:80%;
+	height:40%;
+	background: magenta;
+	float:top;
+	float:left;
+
+}
+.contact{
+	width:100%;
+	height:10%;
+	background:green;
+
+}
